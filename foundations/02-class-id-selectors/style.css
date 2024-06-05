@@ -1,0 +1,22 @@
+.odd {
+    color: hsl(0, 0, 0);
+    background-color: hsl(0, 54%, 75%);
+    font-size: 32px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.odd.cool {
+    font-size: 48px;
+}
+
+#blue {
+    color: hsl(239, 100%, 55%);
+    font-size: 72px;
+}
+
+#green {
+    color: hsl(0, 0, 0);
+    background-color: hsl(133, 100%, 68%);
+    font-size: 48px;
+    font-weight: bold;
+}
